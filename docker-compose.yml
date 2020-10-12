@@ -1,0 +1,17 @@
+version: '2'
+services:
+  php:
+    container_name: challenge_php
+    build: ./docker/php
+    ports:
+      - "8001:80"
+    volumes:
+      - .:/www
+
+networks:
+  default:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - { subnet: "192.200.99.0/24", gateway: "192.200.99.1" }

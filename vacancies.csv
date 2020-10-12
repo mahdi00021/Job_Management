@@ -1,0 +1,28 @@
+ID,Job title,Seniority_level,Country,City,Salary,Currency,Required_skills,Company_size,Company_domain
+1,Senior PHP Developer,Senior,DE,Berlin,747500,SVU,"PHP, Symfony, REST, Unit-testing, Behat, SOLID, Docker, AWS",100-500,Automotive
+2,Middle PHP Developer,Middle,DE,Berlin,632500,SVU,"PHP, Symfony, Unit-testing, SOLID",100-500,Automotive
+3,Junior PHP Developer,Junior,DE,Berlin,517500,SVU,"PHP, LAMP, HTML, CSS, SQL",100-500,Automotive
+4,Senior Java Developer,Senior,DE,Hamburg,897000,SVU,"Java, Spring, REST, Microservices, Kafka, Hibernate",50-100,Real Estate
+5,Senior Fullstack Developer,Senior,DE,Berlin,839500,SVU,"PHP, JavaScript, CSS/SASS, PHPUnit, Karma, Jenkins",50-100,FinTech
+6,Senior Golang Developer,Senior,DE,Hamburg,931500,SVU,"GoLang, Microservices, GoRPC, Kafka, Jenkins, Docker",50-100,Real Estate
+7,Middle Fullstack Developer,Middle,DE,Berlin,724500,SVU,"PHP, JavaScript, CSS/SASS, Angular",50-100,FinTech
+8,Fullstack TeamLead,Tech management,DE,Berlin,920000,SVU,"PHP, JavaScript, SASS/LESS, SCRUM, ReactJS, Redux, NPM, Yarn",50-100,FinTech
+9,Middle JavaScript developer,Middle,DE,Berlin,621000,SVU,"JavaScript, TypeScript, SASS, React",10-50,Logistics
+10,Senior Fullstack Developer,Senior,ES,Barcelona,506000,SVU,"Node.js, JavaScript, CSS/SASS, PHPUnit, Karma, Jenkins",1000-5000,Mining
+11,Middle Fullstack Developer,Middle,ES,Barcelona,598000,SVU,"Node.js, JavaScript, CSS/SASS, Angular",1000-5000,Mining
+12,Senior Java Developer,Senior,ES,Barcelona,644000,SVU,"Java, JavaEE, jBoss, REST, Microservices, RabbitMQ, PostgresQL",1000-5000,Mining
+13,Middle PHP Developer,Middle,PT,Lisbon,425500,SVU,"PHP, Falcon, Unit-testing, SOLID, SQL, MongoDB",10-50,Communication
+14,Junior PHP Developer,Junior,PT,Lisbon,322000,SVU,"PHP, LAMP, SQL, bash, OOP, HTML, CSS",10-50,Communication
+15,Senior PHP Developer,Senior,PT,Lisbon,494500,SVU,"PHP, Falcon, REST, SQL, MongoDB, Unit-testing, Behat, SOLID, Docker, AWS",10-50,Communication
+16,PHP Developer,Middle,NL,Amsterdam,782000,SVU,"PHP, LAMP, MySQL, PHPUnit, OOP",10-50,Automotive
+17,Frontend Developer,Middle,NL,Amsterdam,747500,SVU,"TypeScript, JavaScript, SASS, LESS, Karma",10-50,Health
+18,Node.js Developer,Middle,NL,Amsterdam,690000,SVU,"Node.js, JavaScript, Git, Mongo, noSQL, NPM",10-50,Health
+19,PHP TeamLead,Tech management,NL,Amsterdam,920000,SVU,"PHP, LAML, SCRUM, JIRA, Bamboo, MVC",10-50,Health
+20,Frontend TeamLead,Tech management,NL,Rotterdam,977500,SVU,"TypeScript, JavaScript, SASS, JIRA, Bamboo",10-50,Real Estate
+21,Node.js TeamLead,Tech management,NL,Rotterdam,897000,SVU,"Node.js, JavaScript, JIRA, Bamboo, webpack",10-50,Real Estate
+22,Middle Golang Developer,Middle,BE,Antwerp,770500,SVU,"GoLang, Microservices, GoRPC",50-100,Automotive
+23,Senior Golang Developer,Senior,BE,Bruges,1035000,SVU,"GoLang, Microservices, GoRPC, Bamboo, Docker",50-100,FinTech
+24,Middle Java Developer,Middle,BE,Antwerp,920000,SVU,"Java, Spring, Microservices, Kinesis, Junit, SOAP/RPC, Hibernate",50-100,Automotive
+25,Senior Java Developer,Senior,BE,Bruges,977500,SVU,"Java, J2SE, Spring, Microservices, Bamboo, Docker",50-100,FinTech
+26,Middle Fullstack Developer,Middle,IE,Dublin,862500,SVU,"PHP, JavaScript, CSS/SASS, SQL, AWS, Docker",10-50,Logistics
+27,Fullstack TeamLead,Tech management,IE,Dublin,897000,SVU,"PHP, JavaScript, CSS/SASS, JIRA, SCRUM, AWS, SNS/SQS, Kinesis, NPM",10-50,Logistics
